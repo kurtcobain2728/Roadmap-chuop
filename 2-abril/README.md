@@ -1,10 +1,10 @@
-# ⚛️ Abril — Frontend Avanzado con ReactJS
+﻿# ⚛️ Abril — Frontend Avanzado con ReactJS
 
 > _"Una interfaz moderna no solo se ve bien — se siente bien."_
 
 ## 🎯 Objetivo del mes
 
-Dominar **ReactJS** a nivel avanzado construyendo interfaces modernas, un design system de componentes reutilizables, paneles de monitoreo en tiempo real y una suite completa de testing. Todo con **TypeScript** estricto y **Material Design** — las prácticas exactas que Yuvod espera.
+Dominar **ReactJS** a nivel avanzado construyendo interfaces modernas, un design system de componentes reutilizables, paneles de monitoreo en tiempo real y una suite completa de testing. Todo con **TypeScript** estricto y **Material Design** — prácticas esenciales de la industria.
 
 ---
 
@@ -50,9 +50,9 @@ Semana 08: ReactTesting
 
 ---
 
-## 🎯 Relevancia para Yuvod
+## 🎯 Relevancia profesional
 
-| Requisito Yuvod                                 | Proyecto que lo cubre    |
+| Competencia                                 | Proyecto que lo cubre    |
 | ------------------------------------------------ | ------------------------ |
 | Desarrollar en ReactJS                           | Todos los proyectos      |
 | Crear interfaces modernas, enfocadas en UX       | ChannelUI, LivePanel     |

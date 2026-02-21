@@ -1,4 +1,4 @@
-# 📊 Semana 07 — LivePanel
+﻿# 📊 Semana 07 — LivePanel
 
 > **Panel de monitoreo en tiempo real con React, WebSockets y Chart.js**
 
@@ -15,7 +15,7 @@
 
 LivePanel es un panel de monitoreo en tiempo real que muestra métricas live de un sistema de TV en la nube: señales activas, viewers por canal, calidad de stream, alertas y logs de eventos. Usa **WebSockets** para recibir datos en tiempo real y **Chart.js** para visualizaciones interactivas.
 
-Simula el tipo de herramientas de monitoreo que un equipo como Yuvod necesitaría para supervisar su plataforma.
+Simula el tipo de herramientas de monitoreo que un equipo del sector necesitaría para supervisar su plataforma.
 
 ---
 
@@ -104,7 +104,7 @@ Simula el tipo de herramientas de monitoreo que un equipo como Yuvod necesitarí
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad         | Evidencia                                    |
 | ----------------- | -------------------------------------------- |
@@ -112,5 +112,5 @@ Simula el tipo de herramientas de monitoreo que un equipo como Yuvod necesitarí
 | Tiempo real       | Datos live actualizándose cada segundo       |
 | Monitoreo         | Dashboard de métricas del sistema TV         |
 | Material UI       | Componentes MUI con personalización          |
-| Dominio Yuvod     | Monitoreo de señales, viewers, calidad       |
+| Dominio del negocio     | Monitoreo de señales, viewers, calidad       |
 | UX                | Alertas, dark mode, exportación de datos     |

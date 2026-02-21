@@ -1,4 +1,4 @@
-# 🎫 Semana 11 — BookingEngine
+﻿# 🎫 Semana 11 — BookingEngine
 
 > **Motor de reservas y servicios para huéspedes con React + Express + MongoDB**
 
@@ -15,7 +15,7 @@
 
 BookingEngine es un motor de reservas full-stack que permite a los huéspedes del hotel reservar servicios premium (spa, restaurantes, actividades), solicitar upgrades de habitación, y gestionar contenido VOD de pago. Demuestra lógica de negocio compleja con validaciones de disponibilidad, calendarios y procesamiento de pagos simulado.
 
-Alineado con Yuvod donde se busca _"generar nuevas fuentes de ingresos"_ para los hoteles.
+En la industria se busca _"generar nuevas fuentes de ingresos"_ para los hoteles.
 
 ---
 
@@ -87,7 +87,7 @@ Alineado con Yuvod donde se busca _"generar nuevas fuentes de ingresos"_ para lo
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad        | Evidencia                                    |
 | ---------------- | -------------------------------------------- |

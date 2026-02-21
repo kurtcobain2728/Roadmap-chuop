@@ -1,4 +1,4 @@
-# 📡 Semana 10 — StreamManager
+﻿# 📡 Semana 10 — StreamManager
 
 > **Gestor de streams/señales de TV con control en tiempo real (React + Node.js + WebSockets)**
 
@@ -15,7 +15,7 @@
 
 StreamManager es una aplicación full-stack para gestionar señales de TV/streams en tiempo real. Permite monitorear el estado de cada señal, iniciar/detener streams, ver métricas de calidad y recibir alertas cuando una señal falla. Usa WebSockets para comunicación bidireccional en tiempo real.
 
-Core del negocio de Yuvod: _"simplificar la gestión de las señales"_.
+En plataformas de streaming es clave: _"simplificar la gestión de las señales"_.
 
 ---
 
@@ -88,12 +88,12 @@ Core del negocio de Yuvod: _"simplificar la gestión de las señales"_.
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad     | Evidencia                                       |
 | ------------- | ----------------------------------------------- |
 | Full-stack    | React + Express + MongoDB + WebSockets          |
 | Tiempo real   | Socket.io para datos live                       |
-| Dominio Yuvod | Gestión de señales TV — core del negocio        |
+| Dominio del negocio | Gestión de señales TV — core del negocio        |
 | React         | Estado reactivo, gráficos, controles            |
 | Monitoreo     | Alertas, métricas, logs                         |

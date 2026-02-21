@@ -1,4 +1,4 @@
-# 🔗 Mayo — Full Stack Integration
+﻿# 🔗 Mayo — Full Stack Integration
 
 > _"El verdadero poder está en conectar frontend y backend en experiencias completas."_
 

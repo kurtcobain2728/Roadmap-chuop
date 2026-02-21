@@ -1,4 +1,4 @@
-# 📺 Semana 05 — ChannelUI
+﻿# 📺 Semana 05 — ChannelUI
 
 > **Dashboard de gestión de canales de TV con React, TypeScript y Material UI**
 
@@ -15,7 +15,7 @@
 
 ChannelUI es un dashboard de gestión de canales de televisión construido con **React, TypeScript y Material UI**. Permite administrar canales, ver programación, gestionar paquetes y monitorear el estado de las señales. Consume la API de ContentDB (Semana 03) como backend.
 
-Replica directamente una interfaz que un equipo como Yuvod necesitaría para gestionar su plataforma de TV en la nube.
+Replica directamente una interfaz que un equipo del sector necesitaría para gestionar su plataforma de TV en la nube.
 
 ---
 
@@ -157,7 +157,7 @@ channelui/
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad             | Evidencia                                  |
 | --------------------- | ------------------------------------------ |
@@ -165,5 +165,5 @@ channelui/
 | Material UI           | Componentes MUI personalizados             |
 | TypeScript            | Tipado estricto en componentes y hooks      |
 | UX/UI                 | Dashboard intuitivo, responsive, dark mode |
-| Dominio Yuvod         | Gestión de canales TV — core del negocio   |
+| Dominio del negocio         | Gestión de canales TV — core del negocio   |
 | Integración frontend  | Consumo de API REST con React Query        |

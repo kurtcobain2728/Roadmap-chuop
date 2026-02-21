@@ -1,4 +1,4 @@
-# 🚀 Semana 14 — ShipIt
+﻿# 🚀 Semana 14 — ShipIt
 
 > **Pipeline CI/CD completo con GitHub Actions, Docker y tests automáticos**
 
@@ -90,7 +90,7 @@ ShipIt es un pipeline CI/CD completo usando **GitHub Actions** que automatiza: l
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad  | Evidencia                           |
 | ---------- | ----------------------------------- |

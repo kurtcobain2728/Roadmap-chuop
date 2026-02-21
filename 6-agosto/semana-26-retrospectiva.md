@@ -1,4 +1,4 @@
-# 📝 Semana 26 — Retrospectiva
+﻿# 📝 Semana 26 — Retrospectiva
 
 > **Documentación final, métricas, lecciones aprendidas y preparación de entrevista**
 
@@ -13,7 +13,7 @@
 
 ## 🎯 Descripción
 
-La Retrospectiva es el cierre del roadmap. Documenta todo el viaje: métricas de aprendizaje, lecciones clave, desafíos superados, y prepara material específico para la **entrevista en Yuvod**. Incluye un documento de reflexión técnica y preparación de respuestas a preguntas frecuentes.
+La Retrospectiva es el cierre del roadmap. Documenta todo el viaje: métricas de aprendizaje, lecciones clave, desafíos superados, y prepara material específico para la **entrevistas técnicas**. Incluye un documento de reflexión técnica y preparación de respuestas a preguntas frecuentes.
 
 ---
 
@@ -32,7 +32,7 @@ La Retrospectiva es el cierre del roadmap. Documenta todo el viaje: métricas de
 - [ ] Top 5 desafíos técnicos y cómo los resolví
 - [ ] Diagrama de evolución de habilidades (Mermaid)
 
-### Preparación para Yuvod
+### Preparación de entrevistas
 
 - [ ] **Pitch personal**: presentación de 3 minutos de quién soy y qué aporto
 - [ ] **Respuestas preparadas** a las preguntas clave:
@@ -48,7 +48,7 @@ La Retrospectiva es el cierre del roadmap. Documenta todo el viaje: métricas de
   10. ¿Qué proyecto del portafolio te enorgullece más y por qué?
 
 - [ ] **Demo técnica**: elegir 2-3 proyectos clave para demostrar en la entrevista
-  - CloudCast (mini-Yuvod) — demuestra dominio del dominio
+  - CloudCast (plataforma completa) — demuestra dominio del dominio
   - QueueFlow (RabbitMQ) — demuestra arquitectura distribuida
   - FlutterTV — demuestra Flutter/Dart
 
@@ -98,7 +98,7 @@ La Retrospectiva es el cierre del roadmap. Documenta todo el viaje: métricas de
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad         | Evidencia                                    |
 | ----------------- | -------------------------------------------- |

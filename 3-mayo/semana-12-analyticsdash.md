@@ -1,4 +1,4 @@
-# 📈 Semana 12 — AnalyticsDash
+﻿# 📈 Semana 12 — AnalyticsDash
 
 > **Dashboard de analíticas y métricas de uso del sistema con React + Express + MongoDB**
 
@@ -84,7 +84,7 @@ AnalyticsDash es un dashboard analítico full-stack que muestra métricas de uso
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad       | Evidencia                                   |
 | --------------- | ------------------------------------------- |

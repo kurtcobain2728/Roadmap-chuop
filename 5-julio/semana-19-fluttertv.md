@@ -1,4 +1,4 @@
-# 📺 Semana 19 — FlutterTV
+﻿# 📺 Semana 19 — FlutterTV
 
 > **App móvil de control de TV para huéspedes de hotel con Flutter, Dart y Material Design**
 
@@ -15,7 +15,7 @@
 
 FlutterTV es una app móvil que permite a los huéspedes de un hotel controlar la TV de su habitación desde su teléfono: cambiar de canal, ver la guía de programación, acceder a contenido VOD, y controlar el volumen. Todo construido con **Flutter y Dart** usando **Material Design 3**.
 
-Directamente relevante para Yuvod — un control remoto móvil para su sistema de TV en la nube.
+Un control remoto móvil para un sistema de TV en la nube — proyecto ideal para demostrar dominio de Flutter.
 
 ---
 
@@ -150,12 +150,12 @@ flutter_tv/
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad         | Evidencia                                   |
 | ----------------- | ------------------------------------------- |
 | Flutter/Dart      | App completa con Material Design 3          |
-| Dominio Yuvod     | Control remoto de TV — producto real         |
+| Dominio del negocio     | Control remoto de TV — producto real         |
 | Material Design   | Material You en Flutter                     |
 | State management  | Riverpod patterns                           |
 | UX móvil          | Navegación, animaciones, dark mode          |

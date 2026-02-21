@@ -1,4 +1,4 @@
-# 📺 Semana 03 — ContentDB
+﻿# 📺 Semana 03 — ContentDB
 
 > **Servicio de gestión de contenido multimedia (catálogo TV/VOD) con MongoDB avanzado**
 
@@ -13,7 +13,7 @@
 
 ## 🎯 Descripción
 
-ContentDB es un servicio de gestión de contenido multimedia diseñado para un sistema de TV en la nube — exactamente el dominio de Yuvod. Gestiona canales de TV, programación, contenido VOD (video bajo demanda), y categorías. Usa **MongoDB avanzado** con aggregation pipelines, índices compuestos, y population de documentos relacionados.
+ContentDB es un servicio de gestión de contenido multimedia diseñado para un sistema de TV en la nube — un dominio real y demandado. Gestiona canales de TV, programación, contenido VOD (video bajo demanda), y categorías. Usa **MongoDB avanzado** con aggregation pipelines, índices compuestos, y population de documentos relacionados.
 
 ---
 
@@ -158,12 +158,12 @@ GET    /api/v1/epg/next/:channelId   # Próximo programa
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad        | Evidencia                                       |
 | ---------------- | ----------------------------------------------- |
 | MongoDB avanzado | Aggregations, indices, populate, text search    |
-| Dominio Yuvod    | Canales TV, VOD, EPG — el core del negocio      |
+| Dominio del negocio    | Canales TV, VOD, EPG — el core del negocio      |
 | Node.js/Express  | API REST bien estructurada y documentada        |
 | TypeScript       | Tipos estrictos para todo el contenido          |
 | Modelado datos   | Relaciones entre canales, contenido y programas |

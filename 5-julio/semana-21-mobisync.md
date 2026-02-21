@@ -1,4 +1,4 @@
-# 🔄 Semana 21 — MobiSync
+﻿# 🔄 Semana 21 — MobiSync
 
 > **App móvil con sincronización en tiempo real y modo offline (Flutter + WebSockets)**
 
@@ -85,7 +85,7 @@ MobiSync es una app Flutter avanzada que implementa sincronización en tiempo re
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad         | Evidencia                                   |
 | ----------------- | ------------------------------------------- |

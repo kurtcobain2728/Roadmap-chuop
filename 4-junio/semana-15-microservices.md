@@ -1,4 +1,4 @@
-# 🔀 Semana 15 — MicroServices
+﻿# 🔀 Semana 15 — MicroServices
 
 > **Arquitectura de microservicios con Node.js, Express, Docker y comunicación inter-servicio**
 
@@ -15,7 +15,7 @@
 
 MicroServices descompone una aplicación monolítica en **3 microservicios independientes** que se comunican entre sí: un servicio de usuarios, un servicio de contenido y un servicio de notificaciones. Cada uno tiene su propia base de datos MongoDB, su propio Dockerfile, y se comunican via HTTP y eventos.
 
-Yuvod busca _"participar en el diseño de arquitecturas con microservicios"_.
+En la industria se busca _"participar en el diseño de arquitecturas con microservicios"_.
 
 ---
 
@@ -118,7 +118,7 @@ microservices/
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad        | Evidencia                                 |
 | ---------------- | ----------------------------------------- |

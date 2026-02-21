@@ -1,6 +1,6 @@
-# 🧩 Semana 06 — DesignSystem
+﻿# 🧩 Semana 06 — DesignSystem
 
-> **Librería de componentes reutilizables estilo Yuvod con React, Storybook y Material Design**
+> **Librería de componentes reutilizables profesional con React, Storybook y Material Design**
 
 | Campo              | Detalle            |
 | ------------------ | ------------------ |
@@ -15,7 +15,7 @@
 
 DesignSystem es una librería de componentes React reutilizables documentada con **Storybook**, siguiendo principios de **Material Design**. Incluye botones, inputs, cards, tablas, modals, toast notifications, y más — todos tipados con TypeScript, testeados y con variantes configurables.
 
-Yuvod busca específicamente _"construir y mantener componentes reutilizables y arquitectura frontend"_.
+La industria valora _"construir y mantener componentes reutilizables y arquitectura frontend"_.
 
 ---
 
@@ -141,7 +141,7 @@ designsystem/
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad                     | Evidencia                               |
 | ----------------------------- | --------------------------------------- |

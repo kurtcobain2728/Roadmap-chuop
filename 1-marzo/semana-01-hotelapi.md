@@ -1,4 +1,4 @@
-# 🏨 Semana 01 — HotelAPI
+﻿# 🏨 Semana 01 — HotelAPI
 
 > **API REST completa para gestión hotelera con Node.js, Express, MongoDB y TypeScript**
 
@@ -13,9 +13,9 @@
 
 ## 🎯 Descripción
 
-HotelAPI es una API REST profesional para gestión de habitaciones, huéspedes y servicios de un hotel. Es el primer proyecto del portafolio y establece las bases del stack backend de Yuvod: **Node.js + Express + MongoDB + TypeScript**. Incluye CRUD completo, filtros avanzados, paginación, validación robusta con Zod y documentación automática con Swagger.
+HotelAPI es una API REST profesional para gestión de habitaciones, huéspedes y servicios de un hotel. Es el primer proyecto del portafolio y establece las bases del stack backend: **Node.js + Express + MongoDB + TypeScript**. Incluye CRUD completo, filtros avanzados, paginación, validación robusta con Zod y documentación automática con Swagger.
 
-Simula un contexto real del sector hotelero — el dominio exacto de Yuvod.
+Simula un contexto real del sector hotelero — un dominio real y frecuente en la industria.
 
 ---
 
@@ -212,7 +212,7 @@ GET    /api-docs                  # Documentación Swagger
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad          | Evidencia                                |
 | ------------------ | ---------------------------------------- |

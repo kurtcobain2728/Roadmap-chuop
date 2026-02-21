@@ -1,6 +1,6 @@
-# 🚀 Roadmap Full Stack Developer — Marzo a Agosto 2026
+﻿# 🚀 Roadmap Full Stack Developer — Marzo a Agosto 2026
 
-> **26 proyectos. 26 fines de semana. Preparación integral para Yuvod.**
+> **26 proyectos. 26 fines de semana. Un portafolio que habla por sí solo.**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Duración-6_meses-blue?style=for-the-badge"/>
@@ -13,7 +13,7 @@
 
 ## 🎯 Objetivo
 
-Construir un portafolio de **26 proyectos** que demuestre dominio total del stack que [Yuvod](https://www.yuvod.com/) requiere para su puesto de **Full Stack Developer**:
+Construir un portafolio de **26 proyectos** que demuestre dominio total del stack que un **Full Stack Developer**:
 
 | Tecnología        | Nivel requerido     | Meses donde se practica |
 | ----------------- | ------------------- | ----------------------- |
@@ -85,18 +85,18 @@ Construir un portafolio de **26 proyectos** que demuestre dominio total del stac
 
 | Sem | Proyecto                                                     | Stack clave                          |
 | --- | ------------------------------------------------------------ | ------------------------------------ |
-| 23  | [CloudCast](./6-agosto/semana-23-cloudcast.md)               | Todo el stack (mini-Yuvod)           |
+| 23  | [CloudCast](./6-agosto/semana-23-cloudcast.md)               | Todo el stack (plataforma completa)           |
 | 24  | [SmartHotel](./6-agosto/semana-24-smarthotel.md)             | React + Flutter + Express + RabbitMQ |
 | 25  | [PortfolioOS](./6-agosto/semana-25-portfolioos.md)           | React, MUI, Framer Motion, Vercel    |
 | 26  | [Retrospectiva](./6-agosto/semana-26-retrospectiva.md)       | Documentación, preparación entrevista|
 
 ---
 
-## 🗺️ Mapa de cobertura de requisitos Yuvod
+## 🗺️ Mapa de cobertura de competencias
 
 ### Requisitos principales
 
-| Requisito Yuvod                                            | Proyectos que lo cubren                              |
+| Competencia                                            | Proyectos que lo cubren                              |
 | ---------------------------------------------------------- | ---------------------------------------------------- |
 | ReactJS (3+ años experiencia)                              | 05-ChannelUI, 06-DesignSystem, 07-LivePanel, 08-ReactTesting, 09-GuestHub, 10-StreamManager, 11-BookingEngine, 12-AnalyticsDash, 23-CloudCast, 24-SmartHotel, 25-PortfolioOS |
 | Node.js + Express (backend sólido)                         | 01-HotelAPI, 02-AuthNode, 03-ContentDB, 04-SearchService, 09-GuestHub, 10-StreamManager, 11-BookingEngine, 13-APIGateway, 15-MicroServices, 16-QueueFlow, 23-CloudCast, 24-SmartHotel |
@@ -146,7 +146,7 @@ MES 5: Flutter/Dart
     ↓ Expansión al desarrollo móvil
 
 MES 6: Capstone Projects
-    Mini-Yuvod + SmartHotel + Portfolio + Retrospectiva
+    plataforma completa + SmartHotel + Portfolio + Retrospectiva
     ↓ Integración total y preparación para entrevista
 ```
 
@@ -154,7 +154,7 @@ MES 6: Capstone Projects
 
 ## 🎯 Habilidades blandas que se demuestran
 
-| Habilidad Yuvod               | Cómo se demuestra                              |
+| Habilidad               | Cómo se demuestra                              |
 | ------------------------------ | ---------------------------------------------- |
 | Autonomía y proactividad       | 26 proyectos completados por iniciativa propia |
 | Orientación a objetivos       | Roadmap con fechas, metas y definición de hecho|
@@ -187,5 +187,5 @@ MES 6: Capstone Projects
 - Todos los proyectos usan **TypeScript** como lenguaje principal
 - Cada proyecto incluye **Docker** para reproducibilidad
 - La progresión es acumulativa: cada proyecto se construye sobre los anteriores
-- El enfoque es 100% alineado con los **requisitos de Yuvod**
+- El enfoque es 100% alineado con los **requisitos del mercado**
 - Los proyectos simulan **escenarios reales del sector hotelero y TV en la nube**

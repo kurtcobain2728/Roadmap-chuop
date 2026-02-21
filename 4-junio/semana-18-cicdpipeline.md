@@ -1,4 +1,4 @@
-# ⚙️ Semana 18 — CICDPipeline
+﻿# ⚙️ Semana 18 — CICDPipeline
 
 > **Pipeline avanzado de integración/despliegue continuo con testing, Docker y K8s**
 
@@ -89,7 +89,7 @@ CICDPipeline es un pipeline CI/CD avanzado que integra todo lo aprendido: testin
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad  | Evidencia                                   |
 | ---------- | ------------------------------------------- |

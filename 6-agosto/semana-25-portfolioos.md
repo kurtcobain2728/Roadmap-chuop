@@ -1,4 +1,4 @@
-# 🌐 Semana 25 — PortfolioOS
+﻿# 🌐 Semana 25 — PortfolioOS
 
 > **Portfolio personal interactivo y moderno con React, TypeScript y Material UI**
 
@@ -13,7 +13,7 @@
 
 ## 🎯 Descripción
 
-PortfolioOS es tu portfolio personal como Full Stack Developer. Construido con **React y TypeScript**, muestra todos los proyectos del roadmap, tus habilidades, experiencia y contacto. Diseñado para impresionar a reclutadores como Yuvod con una UI premium y un contenido técnico impecable.
+PortfolioOS es tu portfolio personal como Full Stack Developer. Construido con **React y TypeScript**, muestra todos los proyectos del roadmap, tus habilidades, experiencia y contacto. Diseñado para impresionar a reclutadores del sector con una UI premium y un contenido técnico impecable.
 
 ---
 
@@ -92,7 +92,7 @@ PortfolioOS es tu portfolio personal como Full Stack Developer. Construido con *
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad      | Evidencia                              |
 | -------------- | -------------------------------------- |

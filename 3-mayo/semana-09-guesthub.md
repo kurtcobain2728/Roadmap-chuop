@@ -1,4 +1,4 @@
-# 🏨 Semana 09 — GuestHub
+﻿# 🏨 Semana 09 — GuestHub
 
 > **Plataforma full-stack de experiencia del huésped con React + Express + MongoDB**
 
@@ -95,7 +95,7 @@ GuestHub es una plataforma full-stack que simula el portal de experiencia del hu
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad   | Evidencia                                    |
 | ----------- | -------------------------------------------- |
@@ -104,4 +104,4 @@ GuestHub es una plataforma full-stack que simula el portal de experiencia del hu
 | React       | Material UI, React Query, Router             |
 | Node.js     | API REST con Express y Mongoose              |
 | UX/UI       | Diseño tablet-first, dark mode, responsive   |
-| Producto    | App funcional como las que Yuvod construye   |
+| Producto    | App funcional de una empresa tech real   |

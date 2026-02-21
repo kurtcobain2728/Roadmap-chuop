@@ -1,4 +1,4 @@
-# 📨 Semana 16 — QueueFlow
+﻿# 📨 Semana 16 — QueueFlow
 
 > **Sistema de colas de mensajes con RabbitMQ, Node.js y Docker**
 
@@ -13,9 +13,9 @@
 
 ## 🎯 Descripción
 
-QueueFlow implementa un sistema completo de **colas de mensajes con RabbitMQ** para procesamiento asíncrono. Incluye publishers, consumers, exchanges (direct, topic, fanout), dead letter queues, retry con backoff, y monitoreo. Directamente aplicable a la arquitectura distribuida de Yuvod.
+QueueFlow implementa un sistema completo de **colas de mensajes con RabbitMQ** para procesamiento asíncrono. Incluye publishers, consumers, exchanges (direct, topic, fanout), dead letter queues, retry con backoff, y monitoreo. Directamente aplicable a cualquier arquitectura distribuida moderna.
 
-Yuvod requiere _"experiencia con colas de mensajes (ej. RabbitMQ)"_.
+Un Full Stack Developer profesional necesita _"experiencia con colas de mensajes (ej. RabbitMQ)"_.
 
 ---
 
@@ -158,7 +158,7 @@ queueflow/
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad       | Evidencia                                    |
 | --------------- | -------------------------------------------- |

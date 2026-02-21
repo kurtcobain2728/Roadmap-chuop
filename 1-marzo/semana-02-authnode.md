@@ -1,4 +1,4 @@
-# 🔐 Semana 02 — AuthNode
+﻿# 🔐 Semana 02 — AuthNode
 
 > **Sistema de autenticación y autorización completo con Express, JWT y MongoDB**
 
@@ -15,7 +15,7 @@
 
 AuthNode es un sistema de autenticación y autorización listo para producción construido con Express y MongoDB. Va más allá del login básico: implementa JWT con refresh tokens, roles y permisos granulares (RBAC), registro seguro, y endpoints protegidos. Este módulo se reutilizará como base de autenticación en todos los proyectos futuros.
 
-Directamente aplicable a Yuvod donde se necesita gestionar diferentes perfiles de acceso (huéspedes, staff del hotel, administradores de la plataforma).
+Directamente aplicable a sistemas donde se necesita gestionar diferentes perfiles de acceso (huéspedes, staff del hotel, administradores de la plataforma).
 
 ---
 
@@ -164,7 +164,7 @@ DELETE /api/v1/users/:id              # Eliminar usuario (admin)
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad    | Evidencia                                        |
 | ------------ | ------------------------------------------------ |

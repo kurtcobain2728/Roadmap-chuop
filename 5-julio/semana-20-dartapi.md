@@ -1,4 +1,4 @@
-# 🔌 Semana 20 — DartAPI
+﻿# 🔌 Semana 20 — DartAPI
 
 > **Cliente API en Dart con integración completa al backend Node.js/Express**
 
@@ -97,7 +97,7 @@ DartAPI es un proyecto que demuestra la integración completa entre una app Flut
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad       | Evidencia                                   |
 | --------------- | ------------------------------------------- |

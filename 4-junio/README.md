@@ -1,10 +1,10 @@
-# ☁️ Junio — DevOps, Docker, Kubernetes & Microservicios
+﻿# ☁️ Junio — DevOps, Docker, Kubernetes & Microservicios
 
 > _"El código que no se puede desplegar es código incompleto."_
 
 ## 🎯 Objetivo del mes
 
-Dominar infraestructura, containerización, orquestación y arquitecturas distribuidas. Este mes cubre **Docker, Kubernetes, RabbitMQ, CI/CD y microservicios** — requisitos clave de Yuvod.
+Dominar infraestructura, containerización, orquestación y arquitecturas distribuidas. Este mes cubre **Docker, Kubernetes, RabbitMQ, CI/CD y microservicios** — competencias clave de un Full Stack Developer.
 
 ---
 
@@ -55,9 +55,9 @@ Semana 18: CICDPipeline
 
 ---
 
-## 🎯 Relevancia para Yuvod
+## 🎯 Relevancia profesional
 
-| Requisito Yuvod                                | Proyecto              |
+| Competencia                                | Proyecto              |
 | ---------------------------------------------- | --------------------- |
 | Docker                                         | Todos los proyectos   |
 | Kubernetes (intermedio)                         | K8sDeploy             |

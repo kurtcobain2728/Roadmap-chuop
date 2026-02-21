@@ -1,10 +1,10 @@
-# 🏗️ Marzo — Backend con Node.js, Express & MongoDB
+﻿# 🏗️ Marzo — Backend con Node.js, Express & MongoDB
 
 > _"Todo gran sistema empieza con una API bien diseñada."_
 
 ## 🎯 Objetivo del mes
 
-Establecer las bases sólidas del backend construyendo APIs RESTful profesionales con **Node.js, Express y MongoDB** — el stack exacto de Yuvod. Cada proyecto demuestra buenas prácticas: TypeScript estricto, tests, Docker, documentación y arquitectura limpia.
+Establecer las bases sólidas del backend construyendo APIs RESTful profesionales con **Node.js, Express y MongoDB** — un stack moderno y demandado. Cada proyecto demuestra buenas prácticas: TypeScript estricto, tests, Docker, documentación y arquitectura limpia.
 
 ---
 
@@ -50,9 +50,9 @@ Semana 04: SearchService
 
 ---
 
-## 🎯 Relevancia para Yuvod
+## 🎯 Relevancia profesional
 
-| Requisito Yuvod                        | Proyecto que lo cubre                    |
+| Competencia                        | Proyecto que lo cubre                    |
 | -------------------------------------- | ---------------------------------------- |
 | APIs RESTful con Node.js (Express)     | HotelAPI, AuthNode, ContentDB            |
 | MongoDB                                | Todos los proyectos del mes              |

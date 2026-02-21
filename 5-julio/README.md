@@ -1,10 +1,10 @@
-# 📱 Julio — Flutter/Dart & Desarrollo Móvil
+﻿# 📱 Julio — Flutter/Dart & Desarrollo Móvil
 
 > _"Expandir al móvil es expandir el alcance del producto."_
 
 ## 🎯 Objetivo del mes
 
-Aprender y dominar **Flutter y Dart** construyendo aplicaciones móviles multiplataforma. Yuvod valora _"experiencia previa o interés real en trabajar con Flutter/Dart"_ — este mes demuestra capacidad real con 4 proyectos progresivos.
+Aprender y dominar **Flutter y Dart** construyendo aplicaciones móviles multiplataforma. La industria valora _"experiencia previa o interés real en trabajar con Flutter/Dart"_ — este mes demuestra capacidad real con 4 proyectos progresivos.
 
 ---
 
@@ -52,9 +52,9 @@ Semana 22: PushNotify
 
 ---
 
-## 🎯 Relevancia para Yuvod
+## 🎯 Relevancia profesional
 
-| Requisito Yuvod                               | Proyecto          |
+| Competencia                               | Proyecto          |
 | --------------------------------------------- | ----------------- |
 | Experiencia o interés real en Flutter/Dart     | Todos del mes     |
 | Material Design                               | FlutterTV, DartAPI|

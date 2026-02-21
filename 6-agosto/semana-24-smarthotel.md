@@ -1,4 +1,4 @@
-# 🏨 Semana 24 — SmartHotel
+﻿# 🏨 Semana 24 — SmartHotel
 
 > **Sistema integrado de gestión hotelera full-stack + mobile (React + Flutter + Express + RabbitMQ)**
 
@@ -86,7 +86,7 @@ SmartHotel es un sistema completo de gestión hotelera que integra **React** (pa
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad          | Evidencia                                   |
 | ------------------ | ------------------------------------------- |

@@ -1,4 +1,4 @@
-# 🔔 Semana 22 — PushNotify
+﻿# 🔔 Semana 22 — PushNotify
 
 > **Sistema de notificaciones push multiplataforma con Flutter, Firebase y Express**
 
@@ -88,7 +88,7 @@ PushNotify implementa un sistema completo de notificaciones push para una app ho
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad       | Evidencia                                   |
 | --------------- | ------------------------------------------- |

@@ -1,4 +1,4 @@
-# 🚪 Semana 13 — APIGateway
+﻿# 🚪 Semana 13 — APIGateway
 
 > **Gateway centralizado con caché, autenticación, rate limiting y Express**
 
@@ -94,7 +94,7 @@ APIGateway es un gateway centralizado construido con Express que actúa como pun
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad       | Evidencia                                   |
 | --------------- | ------------------------------------------- |

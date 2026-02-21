@@ -1,6 +1,6 @@
-# ☁️ Semana 23 — CloudCast
+﻿# ☁️ Semana 23 — CloudCast
 
-> **Plataforma completa de TV en la nube — mini-Yuvod (React + Node.js + MongoDB + Docker + K8s)**
+> **Plataforma completa de TV en la nube — plataforma completa (React + Node.js + MongoDB + Docker + K8s)**
 
 | Campo              | Detalle            |
 | ------------------ | ------------------ |
@@ -13,7 +13,7 @@
 
 ## 🎯 Descripción
 
-CloudCast es el proyecto capstone principal: una **plataforma de TV en la nube a escala reducida** que integra todo lo aprendido. Incluye: panel de administración (React), backend de gestión de contenido (Express + MongoDB), sistema de señales simulado, y despliegue con Docker y Kubernetes. Es un **mini-Yuvod funcional**.
+CloudCast es el proyecto capstone principal: una **plataforma de TV en la nube a escala reducida** que integra todo lo aprendido. Incluye: panel de administración (React), backend de gestión de contenido (Express + MongoDB), sistema de señales simulado, y despliegue con Docker y Kubernetes. Es un **plataforma de TV en la nube funcional**.
 
 ---
 
@@ -92,13 +92,13 @@ CloudCast es el proyecto capstone principal: una **plataforma de TV en la nube a
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad         | Evidencia                                    |
 | ----------------- | -------------------------------------------- |
 | **Full Stack**    | React + Express + MongoDB completo           |
 | **Microservicios**| Arquitectura distribuida con RabbitMQ        |
 | **Docker + K8s**  | Containerización y orquestación              |
-| **Dominio Yuvod** | Plataforma de TV en la nube funcional        |
+| **Dominio del negocio** | Plataforma de TV en la nube funcional        |
 | **Producto**      | MVP completo de punta a punta               |
 | **Integración**   | Todo el stack unificado en un solo proyecto  |

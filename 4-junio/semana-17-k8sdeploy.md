@@ -1,4 +1,4 @@
-# ☸️ Semana 17 — K8sDeploy
+﻿# ☸️ Semana 17 — K8sDeploy
 
 > **Despliegue y orquestación de microservicios con Kubernetes**
 
@@ -13,7 +13,7 @@
 
 ## 🎯 Descripción
 
-K8sDeploy toma los microservicios de la semana 15 y los despliega en un cluster **Kubernetes** local (minikube o kind). Incluye Deployments, Services, Ingress, ConfigMaps, Secrets, HPA (autoscaling), y Helm charts. Demuestra conocimiento intermedio de K8s — exactamente lo que Yuvod pide.
+K8sDeploy toma los microservicios de la semana 15 y los despliega en un cluster **Kubernetes** local (minikube o kind). Incluye Deployments, Services, Ingress, ConfigMaps, Secrets, HPA (autoscaling), y Helm charts. Demuestra conocimiento intermedio de K8s — competencia esencial para cualquier Full Stack Developer.
 
 ---
 
@@ -145,7 +145,7 @@ k8s-deploy/
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad       | Evidencia                                  |
 | --------------- | ------------------------------------------ |
@@ -154,4 +154,4 @@ k8s-deploy/
 | Docker          | Images optimizadas para K8s               |
 | Arquitectura    | Microservicios orquestados en K8s          |
 | DevOps          | Deploy, rollback, autoscaling              |
-| Nivel intermedio| Exactamente lo que Yuvod solicita          |
+| Nivel intermedio| Competencia esencial Full Stack          |

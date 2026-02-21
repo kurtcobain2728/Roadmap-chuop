@@ -1,4 +1,4 @@
-# 🧪 Semana 08 — ReactTesting
+﻿# 🧪 Semana 08 — ReactTesting
 
 > **Suite completa de tests unitarios y de integración en React con Jest, RTL y Cypress**
 
@@ -15,7 +15,7 @@
 
 ReactTesting es un proyecto dedicado exclusivamente a dominar el testing en React. Toma los componentes de los proyectos anteriores (ChannelUI, DesignSystem) y construye una suite completa de tests: unitarios con Jest/Vitest + React Testing Library, e integración/E2E con Cypress.
 
-Yuvod requiere _"Realizar tests unitarios y de integración continua"_ — este proyecto demuestra dominio total.
+Un Full Stack Developer profesional necesita _"Realizar tests unitarios y de integración continua"_ — este proyecto demuestra dominio total.
 
 ---
 
@@ -147,7 +147,7 @@ react-testing/
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad             | Evidencia                                 |
 | --------------------- | ----------------------------------------- |

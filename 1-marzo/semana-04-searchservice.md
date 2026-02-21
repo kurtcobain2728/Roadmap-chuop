@@ -1,4 +1,4 @@
-# 🔍 Semana 04 — SearchService
+﻿# 🔍 Semana 04 — SearchService
 
 > **Motor de búsqueda avanzada con Elasticsearch, Express y MongoDB**
 
@@ -15,7 +15,7 @@
 
 SearchService es un microservicio de búsqueda avanzada que utiliza **Elasticsearch** para indexar contenido de canales TV, VOD y hoteles, permitiendo búsquedas rápidas, autocompletado, filtros facetados y resultados relevantes. Se sincroniza con MongoDB como fuente de verdad.
 
-Elasticsearch es una de las tecnologías valorables en Yuvod — este proyecto demuestra dominio total.
+Elasticsearch es una tecnología muy valorada en la industria — este proyecto demuestra dominio práctico.
 
 ---
 
@@ -140,13 +140,13 @@ GET  /api/v1/health                              # Health check
 
 ---
 
-## 💼 Lo que demuestra a Yuvod
+## 💼 Valor para el portafolio
 
 | Habilidad       | Evidencia                                  |
 | --------------- | ------------------------------------------ |
 | Elasticsearch   | Mappings, analyzers, búsqueda avanzada     |
 | Node.js/Express | Microservicio de búsqueda profesional      |
 | MongoDB         | Change Streams, sincronización             |
-| Dominio Yuvod   | Búsqueda de canales, VOD, hoteles          |
+| Dominio del negocio   | Búsqueda de canales, VOD, hoteles          |
 | Escalabilidad   | Arquitectura preparada para alto volumen   |
 | DevOps          | Docker Compose multi-servicio              |

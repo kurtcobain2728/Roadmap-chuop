@@ -1,4 +1,4 @@
-# 🏆 Agosto — Capstone Projects
+﻿# 🏆 Agosto — Capstone Projects
 
 > _"El portafolio no se termina, se entrega."_
 
@@ -34,7 +34,7 @@ El gran cierre. Los proyectos capstone integran todo lo aprendido en los 5 meses
 
 ```
 Semana 23: CloudCast
-    │  Integra: Todo el stack → mini-Yuvod (plataforma de TV en la nube)
+    │  Integra: Todo el stack → plataforma completa (plataforma de TV en la nube)
     ▼
 Semana 24: SmartHotel
     │  Integra: React + Flutter + Express + RabbitMQ → sistema hotelero completo
