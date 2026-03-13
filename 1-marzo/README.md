@@ -1,4 +1,4 @@
-﻿# 🏗️ Marzo — Backend con Node.js, Express & MongoDB
+# 🏗️ Marzo — Backend con Node.js, Express & MongoDB
 
 > _"Todo gran sistema empieza con una API bien diseñada."_
 
@@ -12,7 +12,7 @@ Establecer las bases sólidas del backend construyendo APIs RESTful profesionale
 
 | Semana | Fechas    | Proyecto                                         | Estado       |
 | ------ | --------- | ------------------------------------------------ | ------------ |
-| 01     | 7-8 Mar   | [HotelAPI](./semana-01-hotelapi.md)              | ⬜ Pendiente |
+| 01     | 7-8 Mar   | [HotelAPI](./semana-01-hotelapi.md)              | ✅ Completado |
 | 02     | 14-15 Mar | [AuthNode](./semana-02-authnode.md)               | ⬜ Pendiente |
 | 03     | 21-22 Mar | [ContentDB](./semana-03-contentdb.md)             | ⬜ Pendiente |
 | 04     | 28-29 Mar | [SearchService](./semana-04-searchservice.md)     | ⬜ Pendiente |
@@ -65,7 +65,7 @@ Semana 04: SearchService
 
 ## 📊 Progreso
 
-- [ ] Semana 01 — HotelAPI
+- [x] Semana 01 — HotelAPI
 - [ ] Semana 02 — AuthNode
 - [ ] Semana 03 — ContentDB
 - [ ] Semana 04 — SearchService
