@@ -54,29 +54,29 @@ Simula un contexto real del sector hotelero — un dominio real y frecuente en l
 
 ### Core
 
-- [ ] CRUD completo de habitaciones (tipos, precios, disponibilidad)
-- [ ] CRUD de huéspedes (datos personales, historial)
-- [ ] Gestión de reservas (check-in, check-out, estados)
-- [ ] Relación huésped → reserva → habitación
-- [ ] Estados de habitación (disponible, ocupada, mantenimiento, limpieza)
+- [x] CRUD completo de habitaciones (tipos, precios, disponibilidad)
+- [x] CRUD de huéspedes (datos personales, historial)
+- [x] Gestión de reservas (check-in, check-out, estados)
+- [x] Relación huésped → reserva → habitación
+- [x] Estados de habitación (disponible, ocupada, mantenimiento, limpieza)
 
 ### Avanzado
 
-- [ ] Filtros por tipo, precio, disponibilidad, fechas
-- [ ] Paginación con cursor o offset
-- [ ] Ordenamiento por múltiples campos
-- [ ] Búsqueda por texto en nombre y descripción
-- [ ] Validación robusta con Zod
-- [ ] Manejo de errores centralizado y consistente
+- [x] Filtros por tipo, precio, disponibilidad, fechas
+- [x] Paginación con cursor o offset
+- [x] Ordenamiento por múltiples campos
+- [x] Búsqueda por texto en nombre y descripción
+- [x] Validación robusta con Zod
+- [x] Manejo de errores centralizado y consistente
 
 ### Infraestructura
 
-- [ ] Docker Compose (app + MongoDB)
-- [ ] Tests con Vitest + Supertest (cobertura ≥ 80%)
-- [ ] Documentación Swagger automática (swagger-jsdoc)
-- [ ] Variables de entorno tipadas con Zod
-- [ ] ESLint + Prettier configurados
-- [ ] TypeScript estricto (sin `any`)
+- [x] Docker Compose (app + MongoDB)
+- [x] Tests con Vitest + Supertest (cobertura ≥ 80%)
+- [x] Documentación Swagger automática (swagger-jsdoc)
+- [x] Variables de entorno tipadas con Zod
+- [x] ESLint + Prettier configurados
+- [x] TypeScript estricto (sin `any`)
 
 ---
 
@@ -201,14 +201,14 @@ GET    /api-docs                  # Documentación Swagger
 
 ## ✅ Definición de "hecho"
 
-- [ ] API funcional con todos los endpoints
-- [ ] Docker Compose levanta todo con un solo comando
-- [ ] Tests pasan con cobertura ≥ 80%
-- [ ] Documentación Swagger generada automáticamente
-- [ ] README con instrucciones de setup y uso
-- [ ] TypeScript estricto (sin `any`)
-- [ ] ESLint + Prettier sin errores
-- [ ] Repositorio en GitHub con CI básico
+- [x] API funcional con todos los endpoints
+- [x] Docker Compose levanta todo con un solo comando
+- [x] Tests pasan con cobertura ≥ 80%
+- [x] Documentación Swagger generada automáticamente
+- [x] README con instrucciones de setup y uso
+- [x] TypeScript estricto (sin `any`)
+- [x] ESLint + Prettier sin errores
+- [x] Repositorio en GitHub con CI básico
 
 ---
 
